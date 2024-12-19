@@ -1,5 +1,3 @@
---  made by lkr  (discord = lkr_0000) --
-
 local x4 = game:GetService("Players")
 local x12 = game:GetService("UserInputService")
 local x5 = x4.LocalPlayer
@@ -14,7 +12,7 @@ x11.BackgroundTransparency = 0.2
 x11.BorderSizePixel = 0
 x11.TextColor3 = Color3.fromRGB(255, 0, 0)
 x11.Font = Enum.Font.GothamBold
-x11.PlaceholderText = "여기다가 입력력"
+x11.PlaceholderText = "여기다가 입력"
 x11.TextXAlignment = Enum.TextXAlignment.Center
 x11.TextYAlignment = Enum.TextYAlignment.Center
 x11.Parent = x15
